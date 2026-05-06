@@ -4,7 +4,7 @@ A machine learning application that predicts health insurance premium prices bas
 
 ## 🌐 Live Demo
 
-The application is hosted and available at: [https://jarvis-programmer-eqdjgsigjshpsnntwmswn3.streamlit.app/](https://jarvis-programmer-eqdjgsigjshpsnntwmswn3.streamlit.app/)
+The application is hosted and available at: [https://jarvis-programmer-eqdjgsigjshpsnntwmswn3.streamlit.app/](https://health-insurence-primimum-price-pridiction-git-ee9ehkxaaeskb2y.streamlit.app/)
 
 ## 📋 Overview
 
